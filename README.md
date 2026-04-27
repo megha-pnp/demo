@@ -1,2 +1,2 @@
 # demo
-This is demo a repo created while learning from apna college video
+This is a demo repo created while learning from apna college video
